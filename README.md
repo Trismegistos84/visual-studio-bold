@@ -9,7 +9,3 @@ This work is based on [Visual Studio theme](https://github.com/mihaifm/Visual-St
 #### Sublime Text 2
 
 Drop `Visual Studio.tmTheme` file in: `\Data\Packages\Color Scheme - Default`
-
-#### Textmate
-
-Drop `Visual Studio.tmTheme` file in: `~/Library/Application Suport/TextMate/Themes/`
