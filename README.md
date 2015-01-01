@@ -8,6 +8,6 @@ This work is based on [Visual Studio theme](https://github.com/mihaifm/Visual-St
 
 ### Installation
 
-#### Sublime Text 2
+#### Sublime Text 3
 
  To install theme open `Sublime Text` click `Preferences -> Browse Packages...` create `My-Themes` folder and drop `Visual Studio Bold.tmTheme` into created folder.
