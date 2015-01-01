@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Visual Studio</string>
 	<key>author</key>
-	<string>Mihai Ciuraru</string>
+	<string>Mihai Ciuraru, Michal Wysokinski</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -86,10 +86,49 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#0000FF</string>
 			</dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Comparision Operator</string>
+		    <key>scope</key>
+		    <string>keyword.operator.comparison</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>fontStyle</key>
+		        <string></string>
+		        <key>foreground</key>
+		        <string>#000000</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Assignment Operator</string>
+		    <key>scope</key>
+		    <string>keyword.operator.assignment</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>fontStyle</key>
+		        <string></string>
+		        <key>foreground</key>
+		        <string>#000000</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>name</key>
+		    <string>Arithmetic Operator</string>
+		    <key>scope</key>
+		    <string>keyword.operator.arithmetic</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>fontStyle</key>
+		        <string></string>
+		        <key>foreground</key>
+		        <string>#000000</string>
+		    </dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -125,9 +164,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#0000FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +177,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#0000FF</string>
 			</dict>
@@ -190,7 +229,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#0000FF</string>
 			</dict>
@@ -229,7 +268,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#0000FF</string>
 			</dict>
@@ -242,7 +281,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#0000FF</string>
 			</dict>
