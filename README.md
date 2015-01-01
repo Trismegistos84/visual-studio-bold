@@ -10,4 +10,4 @@ This work is based on [Visual Studio theme](https://github.com/mihaifm/Visual-St
 
 #### Sublime Text 2
 
-Drop `Visual Studio Bold.tmTheme` file in: `\Data\Packages\Color Scheme - Default`
+ To install theme open `Sublime Text` click `Preferences -> Browse Packages...` create `My-Themes` folder and drop `Visual Studio Bold.tmTheme` into that folder.
