@@ -8,4 +8,4 @@ This work is based on [Visual Studio theme](https://github.com/mihaifm/Visual-St
 
 #### Sublime Text 2
 
-Drop `Visual Studio.tmTheme` file in: `\Data\Packages\Color Scheme - Default`
+Drop `Visual Studio Bold.tmTheme` file in: `\Data\Packages\Color Scheme - Default`
