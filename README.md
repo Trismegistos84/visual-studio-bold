@@ -1,8 +1,8 @@
-## Visual Studio color scheme for Sublime Text and Texmate
+## Visual Studio with bold keywords color scheme for Sublime Text
 
-For those used to Visual Studio and switched to the above editors, here is the low noise syntax highlighting scheme.
+Visual Studio theme using bold font to highlight keywords. This scheme was also fixed to work properly with Python syntax higlighter.
 
-![screen](https://github.com/mihaifm/Visual-Studio.tmTheme/raw/master/screen.png)
+This work is based on [Visual Studio theme](https://github.com/mihaifm/Visual-Studio.tmTheme)
 
 ### Installation
 
